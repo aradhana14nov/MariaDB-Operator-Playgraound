@@ -1,1 +1,1 @@
-# MariaDB-Operator-Playgraound
+# MariaDB-Operator-Playground
